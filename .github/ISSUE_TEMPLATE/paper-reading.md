@@ -7,8 +7,8 @@ assignees: JudePark96
 
 ---
 
------------- | -------------
-논문 | Content from cell 2
-저자 | Content in the second column
-링크 | Content in the second column
-학회 | Content in the second column
+|논문|내용|
+|--|--|
+|저자|내용|
+|링크|내용|
+|학회|내용|
